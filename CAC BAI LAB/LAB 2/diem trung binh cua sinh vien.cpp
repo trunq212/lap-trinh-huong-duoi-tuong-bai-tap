@@ -10,6 +10,5 @@ int main (){
 	printf("\nCho diem Toan Ly Hoa :");
 	scanf("%f %f %f", &x, &y, &z); 	
 	printf("\nSinh vien %s co diem trung binh la %.1f:", strupr(ten),   ((x+y+z)/3));
-	
 	return 0;
 }
