@@ -9,5 +9,6 @@ int main (){
 	printf("\nHieu la %d ", a-b);
 	printf("\nThuong la %d ", a/b);
 	printf("\nTich la %d ", a*b);
+
 	return 0;
 }
