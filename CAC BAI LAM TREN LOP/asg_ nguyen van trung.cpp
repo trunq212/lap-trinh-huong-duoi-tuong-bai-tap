@@ -1,4 +1,4 @@
-0-#include<stdio.h>
+#include<stdio.h>
 #include<math.h>
 void kiemsonguyen(){
     printf("\n1 .Kiem tra so nguyen .");
